@@ -1,3 +1,4 @@
-Olá 👋 
-Me chamo Thiago Nadim  
-👨‍🎓 Estudante de Ciência da Computação pela UNICAMP
+Hello 👋
+My name is Thiago Nadim
+👨‍🎓 Computer Science student at UNICAMP - Brazil
+
